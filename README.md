@@ -60,8 +60,17 @@ node restaurantSeeder.js
 #### 安裝成功後，會在終端機看到訊息"Express is running on :http://localhost:2800
 
 ## 畫面 - Demo
+##### 新增
+![alt text](https://github.com/lesterhua/SEM3-S4-A7-restaurant-list-CRUD/blob/master/public/stylesheets/create.gif)
 
-![alt text](https://github.com/lesterhua/SEM3-S2-A1-restaurant-list/blob/master/public/views.gif)
+##### 刪除
+![alt text](https://github.com/lesterhua/SEM3-S4-A7-restaurant-list-CRUD/blob/master/public/stylesheets/delete.gif)
+
+##### 修改
+![alt text](https://github.com/lesterhua/SEM3-S4-A7-restaurant-list-CRUD/blob/master/public/stylesheets/edit.gif)
+
+##### 排列
+![alt text](https://github.com/lesterhua/SEM3-S4-A7-restaurant-list-CRUD/blob/master/public/stylesheets/sort.gif)
 
 ## 作者 - Authors
 
